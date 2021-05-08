@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/discussion-board-webApp/static/css/main.da8ed8aa.chunk.css",
+    "main.js": "/discussion-board-webApp/static/js/main.cccbd6bc.chunk.js",
+    "main.js.map": "/discussion-board-webApp/static/js/main.cccbd6bc.chunk.js.map",
+    "runtime-main.js": "/discussion-board-webApp/static/js/runtime-main.ff9949dc.js",
+    "runtime-main.js.map": "/discussion-board-webApp/static/js/runtime-main.ff9949dc.js.map",
+    "static/css/2.65af8127.chunk.css": "/discussion-board-webApp/static/css/2.65af8127.chunk.css",
+    "static/js/2.4ceea48e.chunk.js": "/discussion-board-webApp/static/js/2.4ceea48e.chunk.js",
+    "static/js/2.4ceea48e.chunk.js.map": "/discussion-board-webApp/static/js/2.4ceea48e.chunk.js.map",
+    "static/js/3.daf1da6f.chunk.js": "/discussion-board-webApp/static/js/3.daf1da6f.chunk.js",
+    "static/js/3.daf1da6f.chunk.js.map": "/discussion-board-webApp/static/js/3.daf1da6f.chunk.js.map",
+    "index.html": "/discussion-board-webApp/index.html",
+    "static/css/2.65af8127.chunk.css.map": "/discussion-board-webApp/static/css/2.65af8127.chunk.css.map",
+    "static/css/main.da8ed8aa.chunk.css.map": "/discussion-board-webApp/static/css/main.da8ed8aa.chunk.css.map",
+    "static/js/2.4ceea48e.chunk.js.LICENSE.txt": "/discussion-board-webApp/static/js/2.4ceea48e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff9949dc.js",
+    "static/css/2.65af8127.chunk.css",
+    "static/js/2.4ceea48e.chunk.js",
+    "static/css/main.da8ed8aa.chunk.css",
+    "static/js/main.cccbd6bc.chunk.js"
+  ]
+}
