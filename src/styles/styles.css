@@ -1,0 +1,84 @@
+
+nav {
+    background-color: #46689b !important;
+}
+
+.nav {
+    border: 1px solid #46689b;
+}
+
+.listing{
+    margin-top: 3%;
+    margin-left: 1%;
+    margin-right: 1% !important;
+}
+
+.post {
+    border-color: #000000 !important;
+    border-width: 1% !important;
+}
+
+.user {
+    color: #46689b !important;
+}
+
+.tag {
+    color: #000000 !important;
+}
+
+.action {
+    font-weight: 700 !important;
+}
+
+.small {
+    max-width: 60% !important;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 20px;
+}
+
+.log-in {
+    background: repeating-linear-gradient(
+        -45deg,
+        #46689b,
+        #46689b 4px,
+        #46689b 4px,
+        #46689b 8px
+        );
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.option {
+    color:#46689b;
+    border-style: none;
+    background-color: white;
+}
+
+.name {
+    color: rgb(231, 236, 241);
+}
+
+.unsigned {
+    color: #46689b !important;
+    text-decoration: underline;
+    justify-content: center !important;
+}
+
+.main {
+    border-radius: 1em;
+    background-color:white;
+    padding: 2em;
+    min-width: 30vw;
+    max-width: 40vw;
+    min-height: 20vw;
+    -moz-box-shadow: 0 0 10px #000000;
+    -webkit-box-shadow: 0 0 10px #000000;
+    box-shadow: 0 0 10px #000000;
+    overflow: hidden;
+}

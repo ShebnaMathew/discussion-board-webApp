@@ -1,0 +1,11 @@
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const INVALID_LOGIN = "INVALID_LOGIN";
+export const LOGIN_NETWORK_ERROR = "LOGIN_NETWORK_ERROR";
+export const LOGOUT = "LOGOUT";
+export const VIEW_ONLY = "VIEW_ONLY";
+export const STORE_THREADS = "STORE_THREADS";
+export const STORE_THREAD_IDS = "STORE_THREAD_IDS";
+export const STORE_TAGS = "STORE_TAGS";
+export const UPDATE_TAGS = "UPDATE_TAGS";
+export const ADD_REPLY = "ADD_REPLY";
+export const ADD_POST = "ADD_POST";
