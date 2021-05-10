@@ -1,4 +1,4 @@
-# Assignment 5
+# Discussion board
 
 Prototype two different views
 
